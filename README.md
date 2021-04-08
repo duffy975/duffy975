@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @duffy975
+- 👋 Hi, I’m Chris @duffy975
 - 👀 I’m interested in Home Lab's
 - 🌱 I’m currently learning Home Assistant
 - 💞️ I’m looking to collaborate on NAS / HASSIO / OMV / TrueNas
